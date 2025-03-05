@@ -10,6 +10,7 @@ public class BulkItemPurchaseAutomationApplication {
 
 		SpringApplication.run(BulkItemPurchaseAutomationApplication.class, args);
 		System.out.println("Application Starteddddd");
+		System.out.println("main changes");
 	}
 
 }
